@@ -1,5 +1,5 @@
-### ABSTRACT
-## PROJECT TITLE : Automatic Room Lighting System
+## ABSTRACT
+##### PROJECT TITLE : Automatic Room Lighting System
 Automatic Room Lighting System is a microcontroller based project that automatically turn on or off the lights in a room. Electricity, being one of the most important resources, must be utilized carefully.
 We often forget to switch off lights or fans when we leave a room. By using this system, we can intentionally forget about the lights as the system will automatically take care of them. The digital World we are living in allows us to use different technologies to automatically perform certain tasks. Such automation is very useful in certain areas like energy consumption, reducing human efforts, improving standard of living etc. The project implemented here is one such project where the microcontroller based system automatically controls the room lights.
 # Aim
