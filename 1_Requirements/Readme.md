@@ -10,7 +10,6 @@
 | HR05 | 5V Relay Module | Implemented | 
 | HR06 | Power Supply | Implemented |
 | HR07 | Lamp | Implemented | 
-| HR08 | Power Supply | Implemented |
 
 
 ### Low level Requirements
