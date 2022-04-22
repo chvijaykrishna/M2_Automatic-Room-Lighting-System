@@ -3,7 +3,7 @@
 ### High Level Requirements 
 | ID | Description | Status |
 | ----- | ----- | ----- |
-| HR01 | AT89C51 Microcontroller (any 8051 architecture based microcontroller) | Implemented |
+| HR01 | AT89C51 Microcontroller | Implemented |
 | HR02 | 8051 Development Board | Implemented |
 | HR03 | 2 x Infrared Sensors | Implemented | 
 | HR04 | 16 x 2 LCD Display | Implemented | 
