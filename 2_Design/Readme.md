@@ -1,5 +1,6 @@
 #### The project implemented here is one such project where the microcontroller based system automatically controls the room lights.
 
+![image](https://user-images.githubusercontent.com/101176652/164609107-230c331c-c084-4ea1-94bc-5612fd046c77.png)
 
 ## Circuit Description
 1) Let us see the design of the circuit for automatic room lighting project. The circuit diagram shows all the connections with respect to microcontroller. If you are doing this project on a development board, some of the connections mentioned in the circuit diagram might not be necessary.
@@ -14,9 +15,9 @@
 An Infrared or IR Sensor is a simple circuit that is used to detect objects (Proximity Sensor) or measure distance (Range Finder). An IR Sensor consists of 3 components: an IR Transmitter (IR LED), an IR Receiver (like a Photo Diode) and a signal processing circuit.
 We have used reflective type IR sensor modules in this project. The detailed circuit diagram of the module is shown in the following image
 
-1
+![image](https://user-images.githubusercontent.com/101176652/164609042-96311e46-bc15-40c7-bd5b-a304ddbbdfaa.png)
 
 ### 5V Relay Module
 A 5V Relay Module is used in this project which helps 8051 Microcontroller to operate high voltage AC loads like a light. The detailed circuit of the Relay Module is shown in the following image. It consists of a 5V Electromechanical Relay, an Optocoupler IC, transistor, two resistors and two diodes
 
-2
+![image](https://user-images.githubusercontent.com/101176652/164609079-81d06db6-d65c-4b6c-a7e5-e82ddcd013dd.png)
