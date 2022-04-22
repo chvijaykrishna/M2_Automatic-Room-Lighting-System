@@ -5,6 +5,8 @@ We often forget to switch off lights or fans when we leave a room. By using this
 # Aim
 The aim of this project is to automatically turn on or off the lights in a room by detecting the human movement. We implemented this project using 8051 Microcontroller and two Infrared (IR) sensors.Since the job of the circuit is to turn on the light when someone enters the room and turn off the light when the last person leaves the room, the project has to internally count the number of visitors entering and leaving the room. Hence, the project acts as an Automatic Room Lighting System as well as Bidirectional Visitor Counter
 
+![QBqC](https://user-images.githubusercontent.com/101176652/164607581-a1eca6f2-af41-44b6-9638-19e114810cd7.gif)
+
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
@@ -25,9 +27,9 @@ Codacy
 
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Test|cppcheck|Valgrind|Git Inspector|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|||[![Analysis](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml)|
+|[![Build_CI - Linux](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/Linux.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/Linux.yml)||[![Analysis](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml)|
 
 
 
 
-![QBqC](https://user-images.githubusercontent.com/101176652/164607581-a1eca6f2-af41-44b6-9638-19e114810cd7.gif)
+
