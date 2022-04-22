@@ -25,5 +25,5 @@ Codacy
 
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Test|cppcheck|Valgrind|Git Inspector|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-
+|||[![Analysis](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml)|
 ![QBqC](https://user-images.githubusercontent.com/101176652/164607581-a1eca6f2-af41-44b6-9638-19e114810cd7.gif)
