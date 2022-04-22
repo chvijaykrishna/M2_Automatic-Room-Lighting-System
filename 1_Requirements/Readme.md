@@ -3,17 +3,20 @@
 ### High Level Requirements 
 | ID | Description | Status |
 | ----- | ----- | ----- |
-| HR01 | User need to provide the Area Name | Implemented |
-| HR02 | User need to provide the Name | Implemented |
-| HR03 | User need to provide their Meter ID | Implemented | 
-| HR04 | User need to provide their Email ID | Implemented | 
-| HR05 | User need to provide their Permanent Address | Implemented | 
-| HR06 | User need to provide their Mobile Number | Implemented |
-
+| HR01 | AT89C51 Microcontroller (any 8051 architecture based microcontroller) | Implemented |
+| HR02 | 8051 Development Board | Implemented |
+| HR03 | 2 x Infrared Sensors | Implemented | 
+| HR04 | 16 x 2 LCD Display | Implemented | 
+| HR05 | 5V Relay Module | Implemented | 
+| HR06 | Power Supply | Implemented |
+| HR05 | Lamp | Implemented | 
+| HR06 | Power Supply | Implemented |
 
 
 ### Low level Requirements
 | ID | Description | HLR ID | Status |
 | ------ | --------- | ------ |  ------ |
-| LR01 | User need to select their Category from the display shown | HR02 | Implemented |
-| LR02 | The selected Category Invoice with amount is displayed on the screen | LR01 | Implemented | 
+| LR01 | Switches| HR02 | Implemented |
+| LR02 | Sockets | LR01 | Implemented |
+
+![electrical-switch-board-500x500](https://user-images.githubusercontent.com/101176652/164608423-07a084c7-6e06-417a-9bcc-6727c8ddb711.jpg)
