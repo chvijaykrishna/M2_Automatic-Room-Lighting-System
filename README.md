@@ -27,7 +27,7 @@ Codacy
 
 |Build CI-Linux|Build CI-Windows|Analysis|Unit Test|cppcheck|Valgrind|Git Inspector|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[![Build_CI - Linux](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/Linux.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/Linux.yml)||[![Analysis](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml)|
+|[![Build_CI - Linux](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/Linux.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/Linux.yml)||[![Analysis](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/analysis.yml)|[![Unit Testing - Unity](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/unit_test.yml/badge.svg)](https://github.com/chvijaykrishna/M2_Automatic-Room-Lighting-System/actions/workflows/unit_test.yml)|
 
 
 
