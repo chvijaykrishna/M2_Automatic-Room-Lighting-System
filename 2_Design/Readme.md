@@ -21,3 +21,8 @@ We have used reflective type IR sensor modules in this project. The detailed cir
 A 5V Relay Module is used in this project which helps 8051 Microcontroller to operate high voltage AC loads like a light. The detailed circuit of the Relay Module is shown in the following image. It consists of a 5V Electromechanical Relay, an Optocoupler IC, transistor, two resistors and two diodes
 
 ![image](https://user-images.githubusercontent.com/101176652/164609079-81d06db6-d65c-4b6c-a7e5-e82ddcd013dd.png)
+
+## Applications
+1) Automatic Room Lighting with Bidirectional Visitor Counter can be used to automatically turn on the light in a room when a person enters the room and turn it off when the person leaves the room.
+2) The project can also be dubbed as a Bidirectional Visitor Counter it is an integral part of the Automatic Room Lighting circuit.
+3) The project can be modified with LEDs and as the number of persons in the room increases, the number of LEDs turning ON also increases.
