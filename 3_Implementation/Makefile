@@ -1,11 +1,11 @@
 # Name of the project
-PROJ_NAME = PowerBillVariousSegments
+PROJ_NAME = Automatic-Room-Lighting-System
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 BUILD_DIR = Build
 
 # All source code files
-SRC =src/FunctionsPowerInvoice.c
+SRC =test/test.c
 
 # All test source files
 TEST_SRC = test/test_PB.c\
